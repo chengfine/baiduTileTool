@@ -6,7 +6,7 @@
 可以自行扩展写个客户端，从百度地图画框直接获取经纬度，或者研究下百度地图自定义样式地图参数的拼接格式，统一从客户端填写参数解析。
 运行downloadImg.js下载瓦片图。默认下载至目录下的img文件夹。
 
-1：老版个性化地图编辑地址：http://wiki.lbsyun.baidu.com/custom/
+1：老版个性化地图编辑地址：http://wiki.lbsyun.baidu.com/custom/  或者  https://developer.baidu.com/map/custom/
 
 2：获取下载坐标范围：http://www.wmksj.com/map.html
 
